@@ -1,4 +1,4 @@
-package aula.agenda.msagenda;
+package aula.funcionario.msfuncionario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,10 +7,10 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @SpringBootApplication
 @EnableEurekaClient
 
-public class MsAgendaApplication {
+public class MsFuncionarioApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MsAgendaApplication.class, args);
+        SpringApplication.run(MsFuncionarioApplication.class, args);
     }
 
 }

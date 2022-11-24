@@ -43,6 +43,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+            <dependency>     <groupId>com.apple</groupId>     <artifactId>AppleJavaExtensions</artifactId>     <version>1.4</version> </dependency>
         </dependencies>
     </dependencyManagement>
 
