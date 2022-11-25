@@ -14,7 +14,7 @@ eureka:
 
 # datasource
 spring:
-application:
+  application:
     name: msFuncionario
   datasource:
     driverClassName: org.h2.Driver
